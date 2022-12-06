@@ -1,1 +1,1 @@
-# NJU_IM
+# open and simple
