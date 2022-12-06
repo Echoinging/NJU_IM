@@ -2,6 +2,7 @@
 
 ## echoinging_im@163.com
 如果觉得github上传比较麻烦可以发送到邮箱：echoinging_im@163.com，由我来上传
+
 anyway，还是建议学习一下Git滴
 
 ## 上传教程：
